@@ -1,89 +1,100 @@
 # CT-DT-Galgotias-Batch5-T1-Task6-Storyboarding
 
-
 ## Course
 
 **Critical Thinking, Design Thinking, Leadership and Teamwork**
 
 ## Topic
 
-**Integration of Design Thinking and Storyboarding**
+**Integration of Design Thinking and Story Boarding**
 
-## Task #06 – Storyboarding
+## Task 06
+
+**Storyboarding**
 
 ---
 
 ## Product
 
-**Pizza Ordering Product Configurator**
+**AI Study Assistant App**
 
-## Objective
+## Storyboard Summary
 
-The storyboard demonstrates the user journey of a customer using a Pizza Ordering Product Configurator to customize and order a pizza according to their preferences.
-
----
-
-## Storyboard Scenario
-
-### Frame 1: User Feels Hungry
-
-**Situation:** Rahul is studying and feels hungry.
-
-**Thought:** "I want to order a pizza."
+The AI Study Assistant App is designed to help students manage their studies more effectively by organizing learning materials, creating study schedules, providing AI-powered assistance, and tracking academic progress.
 
 ---
 
-### Frame 2: Opens Pizza Ordering App
+## Storyboard
 
-**Situation:** Rahul opens the pizza ordering application on his smartphone.
+### Scene 1 – Problem
 
-**Thought:** "Let me customize my pizza."
+**Situation:** A student struggles to manage study materials, deadlines, and exam preparation.
 
----
-
-### Frame 3: Selects Pizza Size
-
-**Situation:** Rahul chooses a Large pizza from the available options.
-
-**Thought:** "A large pizza should be enough."
+**Emotion:** 😟 Frustrated
 
 ---
 
-### Frame 4: Chooses Toppings
+### Scene 2 – Discovery
 
-**Situation:** Rahul selects Chicken and Extra Cheese toppings.
+**Situation:** The student discovers the AI Study Assistant App through social media and online recommendations.
 
-**Thought:** "These are my favorite toppings."
-
----
-
-### Frame 5: Reviews Order and Makes Payment
-
-**Situation:** The application displays the final order and total price.
-
-**Thought:** "Everything looks correct."
+**Emotion:** 🤔 Curious
 
 ---
 
-### Frame 6: Receives Pizza
+### Scene 3 – Registration
 
-**Situation:** The pizza is delivered successfully.
+**Situation:** The student downloads the application and creates an account.
 
-**Thought:** "The ordering process was quick and easy."
+**Emotion:** 😊 Hopeful
 
 ---
 
-## Key Insights
+### Scene 4 – Goal Setting
 
-* Easy customization improves user satisfaction.
-* Clear pricing helps users make decisions.
-* A simple ordering process enhances the overall experience.
+**Situation:** The student sets study goals and uploads notes and learning materials.
+
+**Emotion:** 🎯 Motivated
+
+---
+
+### Scene 5 – AI Assistance
+
+**Situation:** The AI provides summaries, answers questions, creates study schedules, and recommends learning resources.
+
+**Emotion:** 🚀 Productive
+
+---
+
+### Scene 6 – Progress Tracking
+
+**Situation:** The student tracks study progress and receives performance insights.
+
+**Emotion:** 💪 Confident
+
+---
+
+### Scene 7 – Success
+
+**Situation:** The student achieves better grades and recommends the application to friends.
+
+**Emotion:** 😄 Satisfied
+
+---
+
+## Key Benefits
+
+* Organizes study materials efficiently
+* Creates personalized study schedules
+* Provides AI-powered learning assistance
+* Tracks academic progress and performance
+* Improves productivity and learning outcomes
 
 ---
 
 ## Lucidchart Link
 
-Paste your shareable Lucidchart Storyboard link below:
+Paste your shareable Lucidchart storyboard link below:
 
 ```text
 https://your-lucidchart-link-here
@@ -93,4 +104,4 @@ https://your-lucidchart-link-here
 
 ## Conclusion
 
-The storyboard visualizes the customer's interaction with the Pizza Ordering Product Configurator from the initial need to the final delivery. It highlights how a user-friendly interface and customization options contribute to a positive customer experience.
+The AI Study Assistant App enhances the learning experience by combining artificial intelligence with effective study management tools. Through personalized assistance, progress tracking, and smart recommendations, the application helps students achieve their academic goals more efficiently.
