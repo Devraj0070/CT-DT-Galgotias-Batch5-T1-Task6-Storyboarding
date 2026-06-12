@@ -97,7 +97,7 @@ The AI Study Assistant App is designed to help students manage their studies mor
 Paste your shareable Lucidchart storyboard link below:
 
 ```text
-https://your-lucidchart-link-here
+[https://your-lucidchart-link-here](https://lucid.app/lucidchart/724a4318-3a0f-498b-b972-720c441790e8/edit?viewport_loc=529%2C-13%2C4281%2C2060%2C0_0&invitationId=inv_21e0c34a-6a46-4a5e-adf6-8e2d68d3feb3)
 ```
 
 ---
